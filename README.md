@@ -1,36 +1,35 @@
 # Resume
- # Aaron Van Dyke
- ##resume
+# Aaron Van Dyke
 
 **Web sites:**
 
-*mspartcalendar.com
+mspartcalendar.com
 
-*aaronvandyke.net (non-standard, experimental, i.e., boring)
+aaronvandyke.net (non-standard, experimental, i.e., boring)
 
-*juliahelenrice.com/ (coming soon)
+juliahelenrice.com/ (coming soon)
 
 **Front-end:**
 
-*HTML
+HTML
 
-*CSS
+CSS
 
-*SCSS
+SCSS
 
-*JS
+JS
 
 **Back-end:**
 
-*PHP
+PHP
 
 **Libraries used:**
 
-*Codebird
+Codebird
 
-*Swiftmailer
+Swiftmailer
 
 **Other experience:**
-*.htaccess
+.htaccess
 
-*16 years of college/university teaching experience in art, theory, and art history
+16 years of college/university teaching experience in art, theory, and art history
