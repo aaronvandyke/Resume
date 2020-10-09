@@ -1,23 +1,27 @@
 # Resume
- resume
+ # Aaron Van Dyke
+ ##resume
 
-Web sites:
-mspartcalendar.com
-aaronvandyke.net (non-standard, experimental, i.e., boring)
-juliahelenrice.com/ (coming soon)
+**Web sites:**
+*mspartcalendar.com
+*aaronvandyke.net (non-standard, experimental, i.e., boring)
+*juliahelenrice.com/ (coming soon)
 
-Languages:
-HTML
-CSS
-SCSS
-JS
-PHP
+**Front-end:**
 
-Libraries used:
-Codebird
-Swiftmailer
+*HTML
+*CSS
+*SCSS
+*JS
 
-Other experience:
-.htaccess
+**Back-end**
+*PHP
 
-16 years of college/university teaching experience
+**Libraries used:**
+*Codebird
+*Swiftmailer
+
+**Other experience:**
+*.htaccess
+
+*16 years of college/university teaching experience
