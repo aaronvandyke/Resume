@@ -7,7 +7,7 @@ mspartcalendar.com
 
 aaronvandyke.net (non-standard, experimental, i.e., boring)
 
-juliahelenrice.com (coming soon)
+juliahelenrice.com
 
 **Front-end:**
 
