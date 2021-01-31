@@ -24,10 +24,13 @@ Personal site used for experimantation and image and text sharing.
 
 `jQuery`  `Codebird`  `Swiftmailer`
 
-## Other experience:
-MySQL
-Google Analytics
-Adobe Creative Cloud
-.htaccess
+## Other useful Web tech:
 
+`MySQL`  `Google Analytics`  `Adobe Creative Cloud`  `.htaccess`
+
+## Versioning tools:
+
+`Git`  `Github`  `Sourcetree`  `Bitbucket`
+
+## Other experience:
 16+ years of college/university teaching experience in art, theory, and art history
