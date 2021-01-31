@@ -12,29 +12,22 @@ Web site for students in masters program in landscape architecture at Harvard Un
 ***aaronvandyke.net*** (documenting artwork—non-standard, experimental, i.e., boring for most people and an affront to web devs and designers)<br>
 Personal site used for experimantation and image and text sharing.
 
-##Front-end:
+## Front-end:
 
-HTML
+`HTML`  `CSS`  `SCSS`  `JS`  `Bootstrap`
 
-CSS
+## Back-end:
 
-SCSS
+`PHP`
 
-JS
+## Libraries used:
 
-Bootstrap
+`jQuery`  `Codebird`  `Swiftmailer`
 
-##Back-end:
-
-PHP
-
-##Libraries used:
-
-Codebird
-
-Swiftmailer
-
-##Other experience:
+## Other experience:
+MySQL
+Google Analytics
+Adobe Creative Cloud
 .htaccess
 
 16+ years of college/university teaching experience in art, theory, and art history
