@@ -1,15 +1,16 @@
 # Resume
 # Aaron Van Dyke
 
-**Web sites:**
+## Web sites:
 
 mspartcalendar.com
+Light weight calendar for visual art events in the Twin Cities (Minneapolis/St. Paul, MN). This is meant to be 
 
-aaronvandyke.net (non-standard, experimental, i.e., boring)
+juliahelenrice.com (deployed, working, but in its infancy)
 
-juliahelenrice.com
+aaronvandyke.net (documenting artwork—non-standard, experimental, i.e., boring for most people and an affront to web devs and designers)
 
-**Front-end:**
+##Front-end:
 
 HTML
 
@@ -19,17 +20,19 @@ SCSS
 
 JS
 
-**Back-end:**
+Bootstrap
+
+##Back-end:
 
 PHP
 
-**Libraries used:**
+##Libraries used:
 
 Codebird
 
 Swiftmailer
 
-**Other experience:**
+##Other experience:
 .htaccess
 
-16 years of college/university teaching experience in art, theory, and art history
+16+ years of college/university teaching experience in art, theory, and art history
