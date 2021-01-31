@@ -1,16 +1,18 @@
-# Resume #
-# Aaron Van Dyke #
+# Resume
+# Aaron Van Dyke
 
-## Web sites:##
+## Web sites:
 
-mspartcalendar.com
-Light weight calendar for visual art events in the Twin Cities (Minneapolis/St. Paul, MN). This is meant to be 
+***mspartcalendar.com***<br>
+Light weight calendar for visual art events in the Twin Cities (Minneapolis/St. Paul, MN). This is meant to be utilitarian above all else—no unnecessay images or design elements.
 
-juliahelenrice.com (deployed, working, but in its infancy)
+***juliahelenrice.com*** (deployed, working, but in its infancy)<br>
+Web site for students in masters program in landscape architecture at Harvard University.
 
-aaronvandyke.net (documenting artwork—non-standard, experimental, i.e., boring for most people and an affront to web devs and designers)
+***aaronvandyke.net*** (documenting artwork—non-standard, experimental, i.e., boring for most people and an affront to web devs and designers)<br>
+Personal site used for experimantation and image and text sharing.
 
-##Front-end:##
+##Front-end:
 
 HTML
 
@@ -22,7 +24,7 @@ JS
 
 Bootstrap
 
-##Back-end:##
+##Back-end:
 
 PHP
 
@@ -32,7 +34,7 @@ Codebird
 
 Swiftmailer
 
-##Other experience:##
+##Other experience:
 .htaccess
 
 16+ years of college/university teaching experience in art, theory, and art history
